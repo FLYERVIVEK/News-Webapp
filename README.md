@@ -23,9 +23,17 @@ Please be aware that the Newsapp API used in this project is not free for deploy
 
 
 Clone the repository: git clone https://github.com/your-username/apna-news-app.git
+
+
 Install dependencies: npm install
+
+
 Obtain API key: Sign up for Newsapp API and replace the placeholder API key in the code.
+
+
 Start the development server: npm start
+
+
 Explore the app at http://localhost:3000.
 
 
