@@ -22,7 +22,7 @@ Please be aware that the Newsapp API used in this project is not free for deploy
 
 
 
-Clone the repository: git clone https://github.com/your-username/apna-news-app.git
+Clone the repository: git clone https://github.com/FLYERVIVEK/News-Webapp.git
 
 
 Install dependencies: npm install
